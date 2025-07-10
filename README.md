@@ -4,8 +4,6 @@ Welcome to my page, I don't want this page to be too public so congratulations i
 
 I am only going to post projects that I feel like sharing publically - I am also trying to build this up over time though.
 
-I'm not a fan of the public commit tracker. However, I may just start using git more and committing as a good practice.
-
 Right now I am working on enhancing my python skills and learning some C++ before I make my next important project which I may or may not share here.
 
 <!--
